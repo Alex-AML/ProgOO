@@ -86,5 +86,9 @@ Heramientas para el modelado de UML:<br>
 -Gliffy<br><br>
 
 -¿Sabes de alguna empresa local que utilice este lenguaje? Personalmente yo no sé de ninguna empresa local, que utilize UML.
+<br><br>
 
+<h2>Ejercicio UML<h2>
+<br>
+<img src = "http://drive.google.com/uc?export=view&id=1dXRiQJIkWLxYZcSN9kQs-dK3twVnSh2u">
 </H3>
