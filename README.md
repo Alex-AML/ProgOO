@@ -13,4 +13,4 @@ INSTITUTO TECNOLÓGICO DE TIJUANA
 
 <a href="https://github.com/Alex-AML/ProgOO/tree/main/ParadigmaOO ">-Tarea 1</a>
 <br>
-<a href=" ">-Practica Peliculas</a>
+<a href="https://github.com/Alex-AML/ProgOO/blob/main/PracticaPeliculas/Program.cs">-Practica Peliculas</a>
