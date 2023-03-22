@@ -10,4 +10,7 @@ INSTITUTO TECNOLÓGICO DE TIJUANA
 </p align = "center"></h1>
 
 <H2>Indice</H2>
-<p>Tarea1: https://github.com/Alex-AML/ProgOO/tree/main/ParadigmaOO </p>
+
+<a href="https://github.com/Alex-AML/ProgOO/tree/main/ParadigmaOO ">-Tarea 1</a>
+<br>
+<a href=" ">-Practica Peliculas</a>
